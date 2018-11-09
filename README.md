@@ -35,7 +35,7 @@ Discord Developer Documentation: discordapp.com/developers
 YouTube: https://www.youtube.com/channel/UCeONfbdxOHKP7FR73htqVJw/featured
 
 
-				Custom DRP by BullDogBg ©
+				Custom DRP by BullDogBg Â©
 
 
 
