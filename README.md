@@ -28,7 +28,7 @@ Instead of coding you can just use an easy conifg file
 
 Contact me on Discord: BullDogBg#5318
 
-Discord Servers: https://discord.gg/qnWrVfz
+Discord Server: https://discord.gg/qnWrVfz
 
 Discord Developer Documentation: discordapp.com/developers
 
