@@ -1,8 +1,8 @@
 # Custom DRP (Custom Discord Rich Presence)
 
-Custom DRP is a small program to use the DiscordRPC library without any knowledge of programming.
+Custom DRP is a small program to use the DiscordRP library without any knowledge of programming.
 
-Instead just use an easy conifg file
+Instead of coding you can just use an easy conifg file
  by BullDogBg
 
 
