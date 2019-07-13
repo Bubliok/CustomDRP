@@ -20,7 +20,7 @@ Instead of coding you can just use an easy conifg file
 	-  If there are any errors from your config file It should report them in the comannd promt
 - Go into discord settings and add the DogeDRP.exe as a game
 
-- Discord should automatically change the path of DogDeRP.exe to your Discord Rich Presence
+- Discord should automatically change the path of DogeRP.exe to your Discord Rich Presence
 
 
 - You can edit the config any time while the program is running to change the presence
