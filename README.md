@@ -1,4 +1,4 @@
-# Custom DRP (Custom Discord Rich Presence)
+# Custom DRP (Custom Discord Rich Presence) *DOES NOT SUPPORT CURRENT DISCORD VERSION*
 
 Custom DRP is a small program to use the DiscordRP library without any knowledge of programming.
 
