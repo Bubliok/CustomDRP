@@ -26,7 +26,7 @@ Instead of coding you can just use an easy conifg file
 - You can edit the config any time while the program is running to change the presence
 
 
-Contact me on Discord: BullDog3g#8787
+Contact me on Discord: Young Bubliok#8787
 
 Discord Server: https://discord.gg/qnWrVfz
 
@@ -35,7 +35,7 @@ Discord Developer Documentation: discordapp.com/developers
 YouTube: https://www.youtube.com/channel/UCeONfbdxOHKP7FR73htqVJw/featured
 
 
-				Custom DRP by BullDogBg ©
+				Custom DRP by Bubliok ©
 
 
 
